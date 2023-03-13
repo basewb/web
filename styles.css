@@ -1,0 +1,35 @@
+body { 
+background-image: url(background.jpg);
+text-align: center;
+}
+
+#namecontainer {
+	width: 250px;
+	height: 30px;
+	border-radius: 30px;
+	text-align: center;
+}
+
+#emailcontainer{
+	width:250px;
+	height: 30px;
+	border-radius: 30px;
+	text-align: center;
+}
+
+#loginbut{
+	height: 40px;
+	width: 150px;
+	border-radius: 30px;
+	opacity: 0.5;
+	
+}
+
+#continbutton{
+	background-color: white;
+	color: black;
+	opacity: 0.7;
+	border-radius: 30px;
+	height: 40px;
+	width: 150px;
+}
